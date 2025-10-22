@@ -1,0 +1,10 @@
+{
+  "base": "PROJECAO_ICM",
+  "changed_files": [
+    {
+      "path": "js/core.js",
+      "sha256": "ae8f4941f8b1c006cc5d45f83cdb36816a94705538dfd86536efedffc97aac2b",
+      "bytes": 44113
+    }
+  ]
+}

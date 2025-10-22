@@ -1,0 +1,12 @@
+{
+  "name": "projection-html5-icm",
+  "version": "1.5.8-patched",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
