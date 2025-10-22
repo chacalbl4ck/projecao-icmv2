@@ -40,11 +40,13 @@ Uso
 3. Digite "npm i" e depois "npm start" e veja no console o endereço para abrir a projeção.
 4. Se a projeção entrar em loop pela primeira vez, certifique-se de que o navegador esteja permitindo os Pop Ups da página. Depois basta recarregar.
 
-Copyrights
+Copyright
 ---
 
 Este projeto é uma derivação do projeto de Ítalo Zaina https://italozaina.github.io/projection-html5-icm/
 Nesta versão que estou disponibilizando foi corrigido o problema de não conseguir salvar os louvores editados ou acrecentados/deletados.
+É um projeto que dedicarei meu tempo livre para executar, portanto não espere rapidez.
+Este projeto também conta com código do ChatGPT e Perplexity.
 
 TODOs mais críticos
 ---
@@ -59,3 +61,5 @@ TODOs de melhorias
 
 * Permitir arrastar ou organizar louvores, avisos e imagens entre as pastas.
 * Incluir um seletor de fonte nas configurações da projeção.
+
+DEUS SEJA LOUVADO!
