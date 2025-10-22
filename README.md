@@ -1,4 +1,4 @@
-# Projeção ICM
+# Projeção ICM v1.1.0
 
 Projeção para Igreja Cristã Maranata. Suporta os idiomas português (pt-BR), inglês (en) e italiano (it)
 
@@ -29,15 +29,33 @@ Tecnologias Utilizadas
 Roda nos navegadores
 --------------------
 
-* Mozilla Firefox (funciona 100%)
-* Google Chrome ( funciona com limitação: "necessário importar manualmente data.json" )
-* Opera ( funciona com limitação: "necessário importar manualmente data.json" )
+* Mozilla Firefox
+* Google Chrome (É necessário importar manualmente o data.json pela primeira vez, após isso ficará salvo).
 
 Uso
 ---
 
-1. Execute **index.html**
-2. **Permitir pop-up** (aviso no canto superior direto do navegador)
-3. Feche o navegador e execute novamente **index.html**
+1. Baixe o Node.js
+2. Abra um Prompt de Comando no Windows na pasta onde está o projeto da Projeção.
+3. Digite "npm i" e depois "npm start" e veja no console o endereço para abrir a projeção.
+4. Se a projeção entrar em loop pela primeira vez, certifique-se de que o navegador esteja permitindo os Pop Ups da página. Depois basta recarregar.
 
-obs: Se você não estiver usando o **Mozilla Firefox**, precisará abrir manualmente os dados / data.json
+Copyrights
+---
+
+Este projeto é uma derivação do projeto de Ítalo Zaina https://italozaina.github.io/projection-html5-icm/
+Nesta versão que estou disponibilizando foi corrigido o problema de não conseguir salvar os louvores editados ou acrecentados/deletados.
+
+TODOs mais críticos
+---
+
+* Corrigir problema em que ao escolher uma configuração e clicar em salvar, o projeto não salva.
+* Corrigir problema em que imagens e avisos não são salvos ao recarregar a página ou encerrar o Node.js.
+* Otimizar o uso de memória evitando o carregamento da bíblia juntamente com o site (deverá ser carregada quando clicado na aba Bíblia).
+* Otimizar a busca de louvores (devido ao arquivo data.json ter muitas informações, essa busca fica lenta). Talvez dividir os louvores em arquivos separados?
+
+TODOs de melhorias
+---
+
+* Permitir arrastar ou organizar louvores, avisos e imagens entre as pastas.
+* Incluir um seletor de fonte nas configurações da projeção.
