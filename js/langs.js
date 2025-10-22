@@ -6,7 +6,7 @@ if(localStorage.getItem("config") === null){
 }
 let DEFAULT_LANG = config.lang;
 let DATA_LANG_ELEMENTS = document.querySelectorAll('[data-lang-str]');
-let VERSION = '1.0.0';
+let VERSION = '1.1.0';
 let TRANSLATIONS = {
   'en': {
     'navbrand': 'Projection MCC',
