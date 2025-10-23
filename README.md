@@ -25,6 +25,7 @@ Tecnologias Utilizadas
 3. Reveal.js
 4. jQuery
 5. FontAwesome
+6. Node.js
 
 Roda nos navegadores
 --------------------
