@@ -36,10 +36,11 @@ Roda nos navegadores
 Uso
 ---
 
-1. Baixe o Node.js
-2. Abra um Prompt de Comando no Windows na pasta onde está o projeto da Projeção.
-3. Digite "npm i" e depois "npm start" e veja no console o endereço para abrir a projeção.
-4. Se a projeção entrar em loop pela primeira vez, certifique-se de que o navegador esteja permitindo os Pop Ups da página. Depois basta recarregar.
+1. Baixe o software Node.js e instale.
+2. Baixe este repositório completo em Zip e extraia.
+3. Abra um Prompt de Comando do Windows na pasta onde está este projeto baixado.
+4. Digite "npm i" e depois "npm start" e veja no console o endereço para abrir a projeção.
+5. Se a projeção entrar em loop pela primeira vez, certifique-se de que o navegador esteja permitindo os Pop Ups da página. Depois basta recarregar.
 
 Copyright
 ---
